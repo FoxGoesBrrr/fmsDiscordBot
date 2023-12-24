@@ -33,10 +33,17 @@ python main.py
 
 #### Starting  a server ####
 ```bash
-/acquire
+/start
 ```
 
 This command will start the server if its not started. In case the server is already running, it will suggest the user to join the server providing the IP Address of the server.
+
+#### Getting status of a server ####
+````bash
+/status
+````
+
+This command will give the status of the server, and tell the times remaining for the next renewal. This command might break if the server is offline for too long.
 ## Acknowledgements
 
  - [discord.py](https://discordpy.readthedocs.io/)
