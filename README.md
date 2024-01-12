@@ -1,7 +1,7 @@
 
 # fms Discord Bot
 
-This is a Discord bot which can interact with the members in your server to start, and get the details of your minecraft server hosted on freemcserver.net. It also provides a link to renew the server if the countdown is too low or expired. **Keep in mind that this is an unofficial bot and has no relation with the website or its owner(s), so use it at your own risk.**
+This is a Discord bot which can interact with the members in your server to start, and get the details of your minecraft server hosted on freemcserver.net. It also provides a link to renew the server if the countdown is too low or expired. **Keep in mind that this is an unofficial bot and has no relation with the website or its owner(s), using this code WILL GET YOU BANNED. Use it at your own risk.**
 
 
 
